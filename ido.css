@@ -75,3 +75,9 @@ h2{
 	font-weight: bold;
 	text-decoration: none;
 }
+li{
+	list-style-image: url(nap.png);
+}
+ul{
+	margin-left: 10%;
+}
