@@ -55,7 +55,12 @@ input
 	font-size:medium;
 	margin-top:2%;
 }
-h1, h2{
+h1{
 	color: #243f84;
 	text-transform: uppercase;
+}
+h2{
+	color: #243f84;
+	text-transform: uppercase;
+	border-top: 1px solid black;
 }
