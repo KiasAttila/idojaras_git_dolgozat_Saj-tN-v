@@ -1,10 +1,17 @@
 @charset "utf-8";
 /* CSS Document */
-
+*{
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	line-height: 1.5em;
+}
 body
 {
 	background-size:100% auto;
 	background-image: url(../idojaras_git_dolgozat_SajátNév/background.jpg);
+	
+	
 }
 
 #keret
